@@ -1,2 +1,2 @@
-# hexo_blog
+# blog
 blog
